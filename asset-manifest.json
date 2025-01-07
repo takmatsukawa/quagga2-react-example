@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quagga2-react-example/static/css/main.e6c13ad2.css",
+    "main.js": "/quagga2-react-example/static/js/main.37b59f68.js",
+    "static/js/496.9f3b53f0.chunk.js": "/quagga2-react-example/static/js/496.9f3b53f0.chunk.js",
+    "index.html": "/quagga2-react-example/index.html",
+    "main.e6c13ad2.css.map": "/quagga2-react-example/static/css/main.e6c13ad2.css.map",
+    "main.37b59f68.js.map": "/quagga2-react-example/static/js/main.37b59f68.js.map",
+    "496.9f3b53f0.chunk.js.map": "/quagga2-react-example/static/js/496.9f3b53f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.37b59f68.js"
+  ]
+}
